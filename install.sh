@@ -5,19 +5,20 @@
 ## MUST CHANGE THESE SETTINGS !! ##
 
 #DYNDNS / noip host name that resolves into your vps ip address
+
 DYNDNS=someplace.dydns-remote.com
 
 #Please enter a user name for accessing sickbeard, couchpotato ect
-WEBUSER=webuser
+WEBUSER=agnivo
 
 #Please enter a password for accessing all the web apps sickbeard, couchpotato ect
-WEBPASS=webpass
+WEBPASS=fravia1987
 
 #Please enter a Username for Squid Proxy Server
-SQUIDUSER=squid
+SQUIDUSER=agnivo
 
 #Please enter a password for Squid Proxy Server
-SQUIDPASS=hideme
+SQUIDPASS=fravia1987
 
 #squid Proxy please enter the port for web access
 SQUIDPORT=7629
@@ -30,10 +31,10 @@ SSHPORT=2022
 FTPHOST=somewhere.dyndns-remote.com
 
 #ftp user
-FTPUSER=ftpuser
+FTPUSER=agnivo
 
 #ftp password
-FTPPASS=ftppass
+FTPPASS=fravia1987
 
 #film ftp location - relative to ftp home directory
 FILMFTPDIR=films
